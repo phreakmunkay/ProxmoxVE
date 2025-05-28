@@ -10,7 +10,7 @@ on:
 
 jobs:
   update-app-files:
-    if: github.repository == 'community-scripts/ProxmoxVE'
+    if: github.repository == 'phreakmunkay/ProxmoxVE'
     runs-on: runner-cluster-htl-set
 
     permissions:
