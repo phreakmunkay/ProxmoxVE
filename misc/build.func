@@ -342,10 +342,10 @@ base_settings() {
   SD=""
   NS=""
   MAC=""
-  VLAN=""
+  VLAN="80"
   SSH="no"
   SSH_AUTHORIZED_KEY=""
-  TAGS="community-script;"
+  TAGS="download;arr;"
   ENABLE_FUSE="no"
   ENABLE_TUN="no"
 
